@@ -41,9 +41,9 @@ A programação passou por um grande processo, porem bastante rápido. Estas lin
 
 # O que é programação e o que fazem os programadores ?
 
-# FAQ
+#### FAQ
 
-# 1. O que você quer dizer com “escrever instruções específicas para uma máquina burra mas obediente”?
+#### 1. O que você quer dizer com “escrever instruções específicas para uma máquina burra mas obediente”?
 
 Imagine isso: Você tem que ensinar uma criança a tomar banho. A criança só sabe seguir suas instruções. Então você pede para ele fazer o seguinte:
 
@@ -55,7 +55,7 @@ Imagine isso: Você tem que ensinar uma criança a tomar banho. A criança só s
 
 Mas, espere, a criança nem se despiu antes de entrar no chuveiro! Isso é programação. O computador faz exatamente o que você disser para ele fazer. Ele não assume nada e nunca pensa nas consequências
 
-# 2. Quais são os equívocos comuns sobre programação?
+#### 2. Quais são os equívocos comuns sobre programação?
 
 Você não precisa ser gênio ou ser bom em matemática para ser programador. Você só precisa ser bom em resolver problemas e ter pensamento lógico.
 
@@ -63,7 +63,7 @@ Programadores gastam muito tempo em frente ao computador, mas isso não quer diz
 
 Não há uma melhor linguagem para se aprender. A resposta varia muito dependendo dos seus requisitos, preferências, tempo disponível, etc. Linguagens de programação são como religiões e alguns desenvolvedores são mais religiosos.
 
-# 3. Explique mais sobre a programação de alto nível e de baixo nível
+#### 3. Explique mais sobre a programação de alto nível e de baixo nível
 
 Fazendo uma analogia com carros, a linguagem de alto nível é como dirigir um carro automático. Você não precisa se preocupar em trocar marchas (parecido com coleta de lixo e gerenciamento de memória na programação). É mais fácil aprender e dirigir (codificar) um carro automático. A linguagem de médio nível é como dirigir um carro manual.
 
@@ -71,11 +71,11 @@ Você pode trocar as marchas (mais controle), mas é mais difícil aprender e di
 
 Para resumir, um computador é construído em camadas de abstrações. Você dirige um carro através de abstrações – mudança de marcha, pedal do acelerador, pedal do freio, volante, etc. A complexidade do veículo e todos os pequenos detalhes estão escondidos de você.
 
-# 4. Por que é difícil estimar o tempo de desenvolvimento de software?
+#### 4. Por que é difícil estimar o tempo de desenvolvimento de software?
 
 Aqui seguem ótimas respostas sobre o porque das estimativas de tempo de desenvolvimento normalmente estarem erradas.
 
-# 5. O que significa arrumar bugs misteriosos?
+#### 5. O que significa arrumar bugs misteriosos?
 
 Arrumar bugs de software é algo extremamente comum, e você encontra isso diariamente. Entretanto, algumas vezes leva horas ou dias (sim, semanas e meses também são possíveis) para se arrumar um bug. Aqui seguem algumas razões:
 
