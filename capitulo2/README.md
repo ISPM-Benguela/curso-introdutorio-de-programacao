@@ -36,4 +36,4 @@ Este é um assunto muito estenso e não é o foco principal deste mini curso, ap
 ## paginação
 
 [Anterior](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo2) ===
-[Próximo](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo2)
+[Próximo](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo3)
