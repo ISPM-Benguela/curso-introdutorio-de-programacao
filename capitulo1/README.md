@@ -85,6 +85,14 @@ Arrumar bugs de software é algo extremamente comum, e você encontra isso diari
 
 O.B.S: O texto original desta QA podemos encontrar [aqui](http://tutano.trampos.co/8540-programacao-que-fazem-programadores/)
 
+# A programação nos dias de hoje e seus desafios
+
+Hoje em dia a programação evolui bastante não seria deferente porque no geral a propria ciência evolui segnificativamente, para compreender melhor essa evolução encorajo você a ler [este](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_das_linguagens_de_programa%C3%A7%C3%A3o) da wikipedia.
+
+### Os Desafios da programação
+
+Hoje a programação de computadores enfrenta um grande desafio com o advento de novas tecnologias tais como: Inteligia Artificial, BlockChain, Cloud Computing, a Cyber Segurança etc. Essas areas da ciencia exige muito dos programadores e abase dissas tecnologias são os algoritimos e estruturas de dados coisas que veremos muito neste mini curso
+
 # Referencias
 
 [infoescola.com](https://www.infoescola.com/informatica/historia-da-programacao/)
