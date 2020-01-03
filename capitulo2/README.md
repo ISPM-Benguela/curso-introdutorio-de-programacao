@@ -29,6 +29,10 @@ Para usuários do windows instalação é easy como beber água, next, next já 
 
 Apois a instalação do git deves configurar o git na tua máquina para os usuário do windows podem fazer isso atravez deste [link](http://gabsferreira.com/instalando-o-git-e-configurando-github/) e par aos usuário do linux podem visitar este [link](http://www.mundodrigo.com.br/instalando-o-git-e-configurando-github-no-linux/).
 
+# Iniciando com github
+
+Este é um assunto muito estenso e não é o foco principal deste mini curso, apesar que no toolbelt de um programador moderno de constar essa ferramente então para não deixar passar em pranco visite este [link](https://terminalroot.com.br/git/) para começares a dar os teus primeiros passos com o git e github.
+
 ## paginação
 
 [Anterior](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo2) ===
