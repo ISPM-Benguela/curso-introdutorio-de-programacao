@@ -27,4 +27,4 @@ Para usuários do windows instalação é easy como beber água, next, next já 
     sudo apt-get install git
 ```
 
-Apois a instalação do git deves
+Apois a instalação do git deves configurar o git na tua máquina para os usuário do windows podem fazer isso atravez deste [link](http://gabsferreira.com/instalando-o-git-e-configurando-github/) e par aos usuário do linux podem visitar este [link](http://www.mundodrigo.com.br/instalando-o-git-e-configurando-github-no-linux/).
