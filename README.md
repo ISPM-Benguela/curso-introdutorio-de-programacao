@@ -11,6 +11,7 @@ e o javascript.
 # O que aprender com esse mini curso
 
 - Introdução a progtamação
+- Introdução ao git e github
 - Algoritimos e estrutura de dados
 - Base de dados
 - Programação web
