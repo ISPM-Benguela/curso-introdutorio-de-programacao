@@ -10,9 +10,11 @@ e o javascript.
 
 # O que aprender com esse mini curso
 
-- Introdução a progtamação
+- Introdução a programação
 - Introdução ao git e github
 - Algoritimos e estrutura de dados
 - Base de dados
 - Programação web
 - projecto pessoal
+
+[Capitulo 1]()
