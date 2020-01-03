@@ -88,6 +88,8 @@ O.B.S: O texto original desta QA podemos encontrar [aqui](http://tutano.trampos.
 # Referencias
 
 [infoescola.com](https://www.infoescola.com/informatica/historia-da-programacao/)
+[tutano.trampos.co](http://tutano.trampos.co/8540-programacao-que-fazem-programadores/)
+
 <br >
 
 ### paginação
