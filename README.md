@@ -17,4 +17,4 @@ e o javascript.
 - Programação web
 - projecto pessoal
 
-[Estudar o: Capitulo 1](/capitulo1)
+[Estudar o: Capitulo 1](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo1)
