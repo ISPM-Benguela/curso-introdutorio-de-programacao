@@ -42,4 +42,5 @@ A programação passou por um grande processo, porem bastante rápido. Estas lin
 # Referencias
 
 [infoescola.com](https://www.infoescola.com/informatica/historia-da-programacao/)
+<br >
 [Voltar ao: Capitulo 1](/) [Estudar o: Capitulo 2](/)
