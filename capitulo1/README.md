@@ -102,4 +102,5 @@ Hoje a programação de computadores enfrenta um grande desafio com o advento de
 
 ### paginação
 
+[Anterior](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master)
 [Próximo](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo2)
