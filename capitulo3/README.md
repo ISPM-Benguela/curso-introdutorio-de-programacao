@@ -17,3 +17,9 @@ Este capitulo será um dos capitulos mais importante do nosso estudo, porque est
 - Recursão
 - Objectos e Programação orientada a objectos
 - Parte II
+
+# Introdução a Algoritimo e Estrutura de dados
+
+Durante o desenvolvimento de um software, cada método que será utilizado deve ser analisado, deve-se verificar sua complexidade e seus impactos no desempenho. Deve-se saber o que será mais importante, a velocidade ou a estabilidade.
+
+Se uma coleção de dados está salva na memória, provavelmente essas informações serão usadas posteriormente, para isso precisaram ser recuperadas e para o fim utiliza - se os métodos de busca. Quando os dos dados encontra-se já ordenados o processo de busca se torna muito eficiente, então ordenar uma coleção de elementos torna-se muito importante. Embora se tenha muitos métodos que realiza essa tarefa, existem uma diferença muito grande entre eles, principalmente em relação ao desempenho. Além disso, essa coleção de dados tem que estar organizada. A organização de uma coleção de dados pode ser feita através de vetores estáticos ou listas dinâmicas dali que vem o topico algoritimo e estrutura de dados.
