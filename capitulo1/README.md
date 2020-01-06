@@ -1,6 +1,6 @@
 # Introdução a programação
 
-Seja bem vindo a este capitulo e por sinal é o primeiro capitulo do nosso mini curso, nessa sessão trataremos alguns tópicos introdutório sobre programação de um modo geral e algoritmo de forma particular entao sem mais delonga mais a isso.
+Seja bem vindo a este capitulo e por sinal é o primeiro capitulo do nosso mini curso, nessa sessão trataremos alguns tópicos introdutório sobre programação de um modo geral e algoritmo de forma particular entao sem mais delonga vamos a isso.
 
 # Estrutura do capitulo
 
@@ -89,7 +89,7 @@ O.B.S: O texto original desta QA podemos encontrar [aqui](http://tutano.trampos.
 
 Hoje em dia a programação evolui bastante não seria deferente porque no geral a propria ciência evolui segnificativamente, para compreender melhor essa evolução encorajo você a ler [este](https://pt.wikipedia.org/wiki/Hist%C3%B3ria_das_linguagens_de_programa%C3%A7%C3%A3o) da wikipedia.
 
-### Os Desafios da programação
+### Os Desafios da programação (Ainda trabalhando nessa sessão)
 
 Hoje a programação de computadores enfrenta um grande desafio com o advento de novas tecnologias tais como: Inteligia Artificial, BlockChain, Cloud Computing, a Cyber Segurança etc. Essas areas da ciencia exige muito dos programadores e abase dissas tecnologias são os algoritimos e estruturas de dados coisas que veremos muito neste mini curso
 
