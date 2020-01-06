@@ -10,9 +10,12 @@ e o javascript, bom estudos.
 
 # O que aprender com esse mini curso
 
-- Introdução a programação
-- Introdução ao git e github
-- Algoritimos e estrutura de dados
+[- Introdução a programação](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo1)
+
+[- Introdução ao git e github](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo2)
+
+[- Algoritimos e estrutura de dados](https://github.com/ISPM-Benguela/curso-introdutorio-de-programacao/tree/master/capitulo3)
+
 - Base de dados
 - Programação web
 - projecto pessoal
