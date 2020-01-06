@@ -83,13 +83,23 @@ Simplificando, o ECMAScript é um padrão. Enquanto o JavaScript é a implementa
 
 # O ambiente de programação JavaScript
 
-O JavaScript tem sido historicamente uma linguagem de programação que era executada apenas dentro de uma web navegador. No entanto, nos últimos anos, houve o desenvolvimento de JavaScript ambientes de programação que podem ser executados a partir da área de trabalho, ou similarmente, de um servidor. Neste livro, usamos um desses ambientes: o shell JavaScript que faz parte do O abrangente ambiente JavaScript da Mozilla, conhecido como SpiderMonkey.
+O JavaScript tem sido historicamente uma linguagem de programação que era executada apenas dentro de um navegador web ou se preferir um browser. No entanto, nos últimos anos, houve o desenvolvimento de ambientes de programação JavaScript que podem ser executados a partir de um PC, ou similarmente, de um servidor. Neste curso usaremos o nagegador como também quem quiser pode configurar o node js em sua máquipa dará na mesma, só que o NodeJs não está no escopo deste curso.
 
-Para baixar o shell JavaScript, navegue até a página da Web Nightly Build. Role até o
-na parte inferior da página e escolha o download que corresponde ao seu sistema de computador.
-Depois de baixar o programa, você tem duas opções para usar o shell. Vocês
-pode usá-lo no modo interativo ou para interpretar programas JavaScript armazenados em um
-Arquivo. Para usar o shell no modo interativo, digite o comando js em um prompt de comando.
-O prompt do shell, js>, aparecerá e você estará pronto para começar a digitar o JavaScript ex‐
-pressões e declarações.
-A seguir, é apresentada uma interação típica com o shell:
+# Como executar um código JavaScript
+
+Daqui em diante nos consentraremos só nos código depois deste esclarecimento alias para quem quiser haverá o código fonte de cada sessão de código que teremos aqui no curso, então sem vamos ao esclarecimento de como executar um código JavaScript:
+
+Em primeiro lugar crie uma pasta com o nome que você quiser no nosso caso vamos chama - lo de `curso-introdutorio-de-programacao`, dentro da pasta crie outra pasta com o nome `capitulo3` e lá crie uma pasta com o nome `pro01` dentro desta pasta criar dois ficheiro um se chama `index.html` e outro se chama `app.js` se tudo deu certo abra o teu editor de código o meu é o vscode e vamos ao código.
+
+**index.html**
+
+```html
+<!DOCTYPE html>
+<head>
+    <title>app 01</title>
+</head>
+<body>
+    <script src="app.js"></script>
+</body>
+</html>
+```
