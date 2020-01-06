@@ -1,4 +1,4 @@
-# Introdução ao github e git
+# Introdução ao github e git (Ainda trabalhando nesta Sessão)
 
 De forma resumida github é um site e serviço baseado em nuvens que ajuda os programadores a armazenarem os seus códigos fontes, rastreando e controlando também as alterações nos seus códigos. Este sistema é baseado em dois grandes conceitos.
 
