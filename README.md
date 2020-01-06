@@ -1,3 +1,5 @@
+[!banner.jpg]
+
 # curso introdutorio de programacao
 
 Sejam todos bem vindo a este projecto, nós estamos iniciando este projecto pensando nos nossos amigos e colegas
