@@ -1,4 +1,4 @@
-[!banner.jpg]
+![banner do curso](banner.jpg)
 
 # curso introdutorio de programacao
 
