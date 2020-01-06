@@ -103,3 +103,9 @@ Em primeiro lugar crie uma pasta com o nome que você quiser no nosso caso vamos
 </body>
 </html>
 ```
+
+abra o ficheiro `app.js` e degite o seguinte código
+
+```javascript
+console.log("olá mundo...");
+```
